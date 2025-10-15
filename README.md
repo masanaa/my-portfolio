@@ -19,7 +19,4 @@
 - JavaScript (ES6+)
 - Git для контроля версий
 
-## Установка и запуск
-1. Клонируйте репозиторий:
-```bash
-git clone https://github.com/masanna/my-portfolio.git
+
